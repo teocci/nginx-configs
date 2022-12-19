@@ -53,7 +53,7 @@ This repository has the following structure:
 ├── conf.d/
 │   ├── default.conf
 │   └── templates/
-├── h5bp/
+├── snippets/
 │   ├── basic.conf
 │   ├── location/
 │   └── .../
