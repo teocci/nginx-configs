@@ -153,4 +153,4 @@ owners to license your work under the terms of the [MIT License][12].
 [9]: https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 [10]: https://help.github.com/en/github/using-git/about-git-rebase
 [11]: https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests
-[12]: ../LICENSE.txt
+[12]: ../LICENSE

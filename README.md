@@ -193,4 +193,4 @@ The code is available under the [MIT license][11].
 [8]: .github/CONTRIBUTING.md#bugs
 [9]: .github/CONTRIBUTING.md#features
 [10]: .github/CONTRIBUTING.md#pull-requests
-[11]: LICENSE.txt
+[11]: LICENSE
